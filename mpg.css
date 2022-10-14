@@ -1,0 +1,31 @@
+span{
+    color: red;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+h1, p{
+    font-family: sans-serif;
+}
+
+/* #calc{
+    background-color: green;
+    border: 2px solid red;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#reset{
+    background-color: red;
+    border: 2px solid green;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+} */
+
+span{
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
